@@ -11,5 +11,4 @@ Python / SQL / R
 - ⚡ Fun fact: I have traveled over 18 countries 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Teddy F Diallo/)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/TeddyFDiallo/)  
