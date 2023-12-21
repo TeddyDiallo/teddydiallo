@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there 👋, Teddy Diallo
+#### Full Stack Development and Entrepreneurship
+![Full Stack Development and Entrepreneurship](https://media.licdn.com/dms/image/C5603AQEtSf0zbLWhbw/profile-displayphoto-shrink_800_800/0/1656959609059?e=1708560000&v=beta&t=ZJZ_gFrlTGdqjJ8IXNAeYAUcdhNi9pxoFBzlzlRzZZ8)
 
 I am Teddy from Burkina Faso currently living in the US. I am studying full-stack development and entrepreneurial business. I enjoy building things and seeing projects come to life. I am on a journey towards developing mastery in Python and learning frameworks that will make me a programmer capable of building software that is impactful, fun, and easy to use. I am interested in frontend development, backend, and design. I also have interests in project/product management as well as leadership development.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddydiallo)](https://github.com/anuraghazra/github-readme-stats)
+Skills: Python / SQL / R 
+
+- 🔭 I’m currently working on My Git Portfolio 
+- 🌱 I’m currently learning JS, CSS and HTML 
+- ⚡ Fun fact: I have traveled over 18 countries 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Teddy F Diallo/)  
+
